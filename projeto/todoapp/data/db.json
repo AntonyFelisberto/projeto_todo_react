@@ -1,22 +1,3 @@
 {
-  "todos": [
-    {
-      "id": 0.09165808784645946,
-      "title": "aaaa",
-      "time": "123",
-      "done": false
-    },
-    {
-      "id": 0.6190149865986121,
-      "title": "aaaa",
-      "time": "123",
-      "done": false
-    },
-    {
-      "id": 0.49172675091661855,
-      "title": "aaaa",
-      "time": "123123",
-      "done": false
-    }
-  ]
+  "todos": []
 }
